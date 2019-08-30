@@ -1,0 +1,270 @@
+/* Author Nmae:- Jamil
+   Author Info:- jamilhosen  
+*/
+
+/*==== Index ====)
+      1.Fusce at
+      2.about us
+      3.service
+      4.Blog
+      5.Contact
+*/
+
+/*========= Global CSS======= */
+section{
+    padding: 50px 0px;
+}
+h1{
+    
+}
+h2{
+    color: #fff;
+    text-align: center;
+    
+}
+h3{
+    color: white;
+    text-align: center;
+}
+p{
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    
+}
+no-padding{
+    padding: 0px;
+}
+
+/*======= Theme CSS*=======*/
+
+/*======= Navigation Part Start=======*/
+
+.navbar-new{
+    background-color: #EDEFF1;
+    padding: 25px 0px;
+}
+.nav-link{
+    color: #6E7177!important;
+}
+
+.js-scroll-trigger.active{
+    background: #DD4B2B;
+    color: #fff!important;
+    border-radius: 50px;
+    padding: 4px;
+    font-size: 14px;
+    
+}
+
+/*======= Navigation Part end =======*/
+
+/*======= hero part start =======*/
+
+.hero{
+    background: url(../img/banner.png)center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero-top{
+    padding-top: 350px;
+    text-align: center;
+}
+.one{
+    text-align: center;
+    padding-top: 58px;
+}
+.one p{
+    padding-bottom: 30px;
+}
+.one h2{
+    padding-top: 16px;
+}
+.btn-cstm{
+    display: block;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 45px;
+    padding: 3px 30px;
+    
+}
+
+/*======= hero part end =======*/
+
+/*======= News part start =======*/
+
+.news{
+        padding-top: 30px;
+    background-color: #EDEFF1!important;
+    
+}
+.news h3{
+    text-align: center;
+    color: #31353E;
+}
+.two{
+    padding-top: 30px;
+    text-align: center;
+}
+.two h3{
+   color: #31353E;
+   padding-top: 15px;
+}
+.two p{
+    color: #CED0D3;
+    font-size: 18px;
+}
+.two img{
+    
+}
+.btn-cstm2{
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 5px 19px; 
+}
+
+/*======= newsletter part start =======*/
+
+.newsletter{
+    background: url(../img/banner3.png)center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.newsletter-head p{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+
+
+.form{
+	position: relative;
+	    padding-top: 16px 0px;
+}
+.form-control{
+    height: 40px;
+    margin: 0 auto;
+    padding-left: 20px;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 1px solid #EDEFF1;
+    color: white;
+}
+.btn-sign-up{
+	padding:  7px 38px;
+	border-radius: 25px;
+    color: #612316;
+    border: 1px solid #8c7e7e;
+    text-align: center;
+    background-color: white;
+}
+.sign-up{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+/*======= newsletter part ENd =======*/
+
+/*======= product details part start =======*/
+
+
+.lorem{
+    background-color: #FFFFFF;
+    padding-top: 30px;
+    
+}
+.product h3{
+    color: black;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+
+.product p{
+    color: #7E7E83;
+    text-align: left;
+    font-size: 12px;
+    padding-bottom: 15px;
+    
+}
+
+.btn-product-sign-up{
+    border-radius: 45px;
+    
+    background-color: #DD4B2B;
+    color: white;
+    padding: 3px 34px;
+}
+.pic img{
+     width: 450px;
+    
+}
+.three h3{
+    color: black;
+    text-align: left;
+  
+    padding-top: 30px;
+}
+.three p{
+    color: #7E7E83;
+    text-align: left;
+    font-size: 12px;
+    padding-bottom: 15px;
+}
+.btn-product-sign-up2{
+    border-radius: 45px;
+    
+    background-color: #4B4E73;
+    color: white;
+    padding: 3px 34px;
+}
+
+
+/*======= product details part end =======*/
+
+
+/*======= service part start =======*/
+
+
+.service{
+   background-color: #D75D0E;
+   padding-top: 30px;
+}
+
+.main a{
+	text-decoration: none;
+	color: white;
+}
+
+.main ul{
+	list-style: none;
+	text-align: center;
+}
+
+/*======= service part end =======*/
+
+/*======= footer part start =======*/
+
+
+.footer{
+    background: url(../img/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.footer-header p{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 50px;
+}
+
+/*======= service part end =======*/
+
+
+
+
